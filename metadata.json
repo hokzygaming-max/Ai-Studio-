@@ -1,0 +1,10 @@
+{
+  "name": "AI Studio",
+  "description": "Free and open-source multi-provider Android AI assistant with skills, file uploads, project workspaces, voice, web search, and coding agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
